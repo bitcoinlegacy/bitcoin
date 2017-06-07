@@ -1,7 +1,7 @@
-Contributing to btc1
+Contributing to BitcoinLegacy
 ====================
 
-The btc1 project operates an open contributor model where anyone is
+The bitcoinlegacy project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -16,7 +16,7 @@ release cycle, overall merging, moderation and appointment of maintainers.
 
 Filing Issues
 -------------
-Issues are primarily for btc1 members.   Non-members' issues will normally be closed automatically, as a matter of policy.
+Issues are primarily for bitcoinlegacy members.   Non-members' issues will normally be closed automatically, as a matter of policy.
 
 Issues are not intended as a generalized free support avenue.
 
